@@ -203,3 +203,12 @@ justify-content: space-between;
 padding: 5px;
 }
  
+li h3{
+    padding-left: 10px;
+}
+li span{
+    padding-left: 10px;
+}
+li p{
+    padding-left: 10px;
+}
